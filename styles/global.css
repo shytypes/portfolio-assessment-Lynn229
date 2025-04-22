@@ -3,7 +3,22 @@
   margin: 0px;
   padding: 0px;
 }
-
+  body {
+    font-family: 'JetBrains Mono';
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+  }
+  header {
+    background-color: #ffffff;
+    padding: 2rem 1rem;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  }
+  a {
+    color: #0077cc;
+    text-decoration: none;
+  } 
 /*title text style*/
 /* the font-family 'JetBrains Mono', has been linked
  * and is available for your use
